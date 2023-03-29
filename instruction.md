@@ -1,6 +1,6 @@
 **Instruction to work Git**
 
-
+![Git emblemm](gitt.png)
 
 ## Создание нового локального репозитория
 
