@@ -95,3 +95,5 @@ git checkout "имя ветки"
 git checkout master
 
 Для того, чтобы удалить ветку необходимо ввести команду:
+
+git checkout -d "имя ветки"
